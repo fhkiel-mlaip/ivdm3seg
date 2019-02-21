@@ -17,7 +17,7 @@ as described in the paper.
 - **`binary w/ latent variable` (larger localizer patch size)**
   * Container name: `ivdm3seg/binary_large`
   * [Container image](https://bit.ly/2TdnaGG)
-  * [Results](results_on_nondisclosed_data/binary_large.xls x)
+  * [Results](results_on_nondisclosed_data/binary_large.xlsx)
 
 ## How to run a Docker container
 
